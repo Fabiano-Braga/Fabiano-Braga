@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Fabiano Braga
 
-- 🔭 Hoje Trablho como analista de rede
-- 🌱 Estudando Análise e desenvolvimento de sistemas
+<p>Sou analista de rede há 8 anos e trabalho na área de TI há 12 anos, no momento estou migrando para área de desenvolvimento web. </p>
+
+- Estudando Análise e desenvolvimento de sistemas.
 
 
 <div align="center">
