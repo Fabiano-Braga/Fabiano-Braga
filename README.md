@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Fabiano Braga
 
-**`Desenvolvedoro Front-End`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Fabiano Braga, tenho 35 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e comecei a compartilhar meu conhecimento através do meu canal no YouTube "[Zero Ao Code](https://www.youtube.com/@ZeroAoCode)", onde passo dicas e ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Zero Ao code](https://www.instagram.com/zeroaocode/)".
 <p align="left">
